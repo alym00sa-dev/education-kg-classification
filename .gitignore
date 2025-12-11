@@ -1,0 +1,51 @@
+# Ignore everything by default
+*
+
+# But allow specific directories
+!neo4j_csv2 - claude2/
+!neo4j_csv2 - claude2/*.csv
+!pdfs2/
+!pdfs2/*.pdf
+
+
+# Allow git files
+!.gitignore
+!README.md
+
+# Ignore OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# Ignore environment variables
+.env
+.env.local
+
+
+# Ignore videos
+*.mov
+*.mp4
+*.avi
+
+# Ignore data files
+*.csv
+metadata*.csv
+
+# But EXPLICITLY allow the neo4j CSV files we need
+!neo4j_csv2 - claude2/*.csv

@@ -1,0 +1,69 @@
+paper_id:ID(Paper),title,year:int,venue
+paper_1,"Generative AI in Higher Education: Seeing ChatGPT Through Universities' Policies, Resources, and Guidelines",2024,arXiv preprint
+paper_2,"Pedagogy, Cognition, Human Rights, and Social Justice",2024,International Journal of Artificial Intelligence in Education
+paper_3,Co-producing AIED Ethics Under Lockdown: an Empirical Study of Deliberative Democracy in Action,2024,International Journal of Artificial Intelligence in Education
+paper_4,Evaluation of LLM Tools for Feedback Generation in a Course on Concurrent Programming,2025,International Journal of Artificial Intelligence in Education
+paper_5,Automatic assessment of text-based responses in post-secondary education: A systematic review,,
+paper_6,Automated Reading Passage Generation with OpenAI's Large Language Model,2023,
+paper_7,A Manifesto for a Pro-Actively Responsible AI in Education,2024,International Journal of Artificial Intelligence in Education
+paper_8,Uncovering Blind Spots in Education Ethics: Insights from a Systematic Literature Review on Artificial Intelligence in Education,2024,International Journal of Artificial Intelligence in Education
+paper_9,Reducing Workload in Short Answer Grading Using Machine Learning,2024,International Journal of Artificial Intelligence in Education
+paper_10,AIED—Coming of Age?,2024,International Journal of Artificial Intelligence in Education
+paper_11,Optimising Team Dynamics: The Role of AI in Enhancing Challenge-Based Learning Participation Experience and Outcomes,2024,HAL Preprint
+paper_12,Using Large Language Models for Automated Grading of Student Writing about Science,2024,
+paper_13,Transitioning to Online Instructions and COVID-19 Response: A View from Mining Emergent College Students Discourse in Online Discussion Forum,2024,International Journal of Artificial Intelligence in Education
+paper_14,"A Closer Look into Recent Video-based Learning Research: A Comprehensive Review of Video Characteristics, Tools, Technologies, and Learning Effectiveness",2023,arXiv
+paper_15,Facial Expression Recognition for Examining Emotional Regulation in Synchronous Online Collaborative Learning,2024,International Journal of Artificial Intelligence in Education
+paper_16,The Use of ChatGPT in Source-Based Writing Tasks,2025,International Journal of Artificial Intelligence in Education
+paper_17,"Adaptive Learning is Hard: Challenges, Nuances, and Trade-offs in Modeling",2024,International Journal of Artificial Intelligence in Education
+paper_18,AI Adaptivity in a Mixed-Reality System Improves Learning,2024,International Journal of Artificial Intelligence in Education
+paper_19,Interpretable Dropout Prediction: Towards XAI-Based Personalized Intervention,2024,International Journal of Artificial Intelligence in Education
+paper_20,Evaluating the Impact of Learner Control and Interactivity in Conversational Tutoring Systems for Persuasive Writing,2025,International Journal of Artificial Intelligence in Education
+paper_21,"To Advance AI Use in Education, Focus on Understanding Educators",2024,International Journal of Artificial Intelligence in Education
+paper_22,Formative Feedback on Student-Authored Summaries in Intelligent Textbooks Using Large Language Models,2025,International Journal of Artificial Intelligence in Education
+paper_23,Can ChatGPT Pass High School Exams on English Language Comprehension?,2024,International Journal of Artificial Intelligence in Education
+paper_24,Debiasing Education Algorithms,2024,International Journal of Artificial Intelligence in Education
+paper_25,From the Automated Assessment of Student Essay Content to Highly Informative Feedback: a Case Study,2024,International Journal of Artificial Intelligence in Education
+paper_26,Recognizing Multi-Party Epistemic Dialogue Acts During Collaborative Game-Based Learning Using Large Language Models,2025,International Journal of Artificial Intelligence in Education
+paper_27,A Large Language Model Approach to Educational Survey Feedback Analysis,2025,International Journal of Artificial Intelligence in Education
+paper_28,"Modeling Synchronization for Detecting Collaborative Learning Process Using a Pedagogical Conversational Agent: Investigation Using Recurrent Indicators of Gaze, Language, and Facial Expression",2024,International Journal of Artificial Intelligence in Education
+paper_29,LLaVA-docent: Instruction tuning with multimodal large language model to support art appreciation education,2024,Computers and Education: Artificial Intelligence
+paper_30,An Intelligent Support System to Help Teachers Plan Field Trips,2024,International Journal of Artificial Intelligence in Education
+paper_31,The Social life of AI in Education,2024,International Journal of Artificial Intelligence in Education
+paper_32,Review on Neural Question Generation for Education Purposes,2024,International Journal of Artificial Intelligence in Education
+paper_33,#let's-discuss: Analyzing Students' Use of Emoji when Interacting with Course Readings,2024,International Journal of Artificial Intelligence in Education
+paper_34,K-12 Education in the Age of AI: A Call to Action for K-12 AI Literacy,2023,International Journal of Artificial Intelligence in Education
+paper_35,Choice-based Personalization in MOOCs: Impact on Activity and Perceived Value,2024,International Journal of Artificial Intelligence in Education
+paper_36,The Future Trajectory of the AIED Community: Defining the 'Knowledge Tradition' in Critical Times,2024,International Journal of Artificial Intelligence in Education
+paper_37,Against Personalised Learning,2024,International Journal of Artificial Intelligence in Education
+paper_38,From the Lab to the Wild: Examining Generalizability of Video-based Mind Wandering Detection,2025,International Journal of Artificial Intelligence in Education
+paper_39,Text-based Question Difficulty Prediction: A Systematic Review of Automatic Approaches,2024,International Journal of Artificial Intelligence in Education
+paper_40,What Explains Teachers' Trust in AI in Education Across Six Countries?,2025,International Journal of Artificial Intelligence in Education
+paper_41,Preface to the Special Issue on K-12 AI Education,2023,International Journal of Artificial Intelligence in Education
+paper_42,Understanding Visitors' Curiosity in a Science Centre with Deep Question Processing Network,2024,International Journal of Artificial Intelligence in Education
+paper_43,Alexa doesn't have that many feelings: Children's understanding of AI through interactions with smart speakers in their homes,2023,
+paper_44,Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes,2025,International Journal of Artificial Intelligence in Education
+paper_45,Automated Gaze-Based Identification of Students' Strategies in Histogram Tasks through an Interpretable Mathematical Model and a Machine Learning Algorithm,2024,International Journal of Artificial Intelligence in Education
+paper_46,"GPT-4 in Education: Evaluating Aptness, Reliability, and Loss of Coherence in Solving Calculus Problems and Grading Submissions",2024,International Journal of Artificial Intelligence in Education
+paper_47,Correction to: AIED—Coming of Age?,2024,International Journal of Artificial Intelligence in Education
+paper_48,How Can I Get It Right? Using GPT to Rephrase Incorrect Trainee Responses,2025,International Journal of Artificial Intelligence in Education
+paper_49,"Understanding the Practices, Perceptions, and (Dis)Trust of Generative AI among Instructors: A Mixed-methods Study in the U.S. Higher Education",2025,"Conference'17, Washington, DC, USA"
+paper_50,Designing Game-Based Learning for High School Artificial Intelligence Education,2023,International Journal of Artificial Intelligence in Education
+paper_51,"Fully Individualized Curriculum with Decaying Knowledge, a New Hard Problem: Investigation and Recommendations",2024,International Journal of Artificial Intelligence in Education
+paper_52,Navigating Ethical Benefits and Risks as AIED Comes of Age,2024,International Journal of Artificial Intelligence in Education
+paper_53,Automatic Classification of Online Discussions and Other Learning Traces to Detect Cognitive Presence,2024,International Journal of Artificial Intelligence in Education
+paper_54,Transforming Driver Education: A Comparative Analysis of LLM-Augmented Training and Conventional Instruction for Autonomous Vehicle Technologies,2025,International Journal of Artificial Intelligence in Education
+paper_55,Short-Answer Grading for German: Addressing the Challenges,2024,International Journal of Artificial Intelligence in Education
+paper_56,Machine learning's model-agnostic interpretability on The Prediction of Students' Academic Performance in Video-Conference-Assisted Online Learning During the Covid-19 Pandemic,2023,Research Square (Preprint)
+paper_57,Commentary for the International Journal of Artificial Intelligence in Education Special Issue on K-12 AI Education,2023,International Journal of Artificial Intelligence in Education
+paper_58,Exploring Automatic Readability Assessment for Science Documents within a Multilingual Educational Context,2024,International Journal of Artificial Intelligence in Education
+paper_59,"Correction to: AIED: From Cognitive Simulations to Learning Engineering, with Humans in the Middle",2024,International Journal of Artificial Intelligence in Education
+paper_60,Novelty Evaluation using Sentence Embedding Models in Open-ended Cocreative Problem-solving,2024,International Journal of Artificial Intelligence in Education
+paper_61,Assessing the Proficiency of Large Language Models in Automatic Feedback Generation: An Evaluation Study,2023,Elsevier (preprint)
+paper_62,Constructive Criticism? Working with (Rather than Against) the AIED Back-Lash,2024,International Journal of Artificial Intelligence in Education
+paper_63,How to Improve the Explanatory Power of an Intelligent Textbook: a Case Study in Legal Writing,2025,International Journal of Artificial Intelligence in Education
+paper_64,Examining the Effect of Assessment Construct Characteristics on Machine Learning Scoring of Scientific Argumentation,2024,International Journal of Artificial Intelligence in Education
+paper_65,Correction to: Utilizing a Pretrained Language Model (BERT) to Classify Preservice Physics Teachers' Written Reflections,2023,International Journal of Artificial Intelligence in Education
+paper_66,Crosslingual Content Scoring in Five Languages Using Machine-Translation and Multilingual Transformer Models,2024,International Journal of Artificial Intelligence in Education
+paper_67,Performance of ChatGPT on the US Fundamentals of Engineering Exam: Comprehensive Assessment of Proficiency and Potential Implications for Professional Environmental Engineering Practice,2023,
+paper_68,A Novel Framework for the Generation of Multiple Choice Question Stems Using Semantic and Machine-Learning Techniques,2024,International Journal of Artificial Intelligence in Education

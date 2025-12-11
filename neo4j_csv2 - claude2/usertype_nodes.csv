@@ -1,0 +1,8 @@
+user_type_id:ID(UserType),type
+Student,Student
+Educator,Educator
+Administrator,Administrator
+Parent,Parent
+School,School
+Community,Community
+Systematic: social/political level information,Systematic: social/political level information

@@ -1,0 +1,7 @@
+population_id:ID(Population),type
+Elementary (PreK-5th),Elementary (PreK-5th)
+Middle School (6th-8th),Middle School (6th-8th)
+High School (9th-12th),High School (9th-12th)
+Undergraduate,Undergraduate
+Graduate,Graduate
+Adult,Adult

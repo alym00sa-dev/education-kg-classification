@@ -1,0 +1,60 @@
+:START_ID(Paper),:END_ID(UserType),:TYPE
+paper_1,Educator,TARGETS_USER_TYPE
+paper_2,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_3,Student,TARGETS_USER_TYPE
+paper_4,Student,TARGETS_USER_TYPE
+paper_5,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_6,Educator,TARGETS_USER_TYPE
+paper_7,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_8,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_9,Educator,TARGETS_USER_TYPE
+paper_11,Student,TARGETS_USER_TYPE
+paper_12,Student,TARGETS_USER_TYPE
+paper_13,Student,TARGETS_USER_TYPE
+paper_14,Student,TARGETS_USER_TYPE
+paper_15,Student,TARGETS_USER_TYPE
+paper_16,Student,TARGETS_USER_TYPE
+paper_18,Student,TARGETS_USER_TYPE
+paper_19,Student,TARGETS_USER_TYPE
+paper_20,Student,TARGETS_USER_TYPE
+paper_21,Educator,TARGETS_USER_TYPE
+paper_22,Student,TARGETS_USER_TYPE
+paper_23,Student,TARGETS_USER_TYPE
+paper_24,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_25,Student,TARGETS_USER_TYPE
+paper_26,Student,TARGETS_USER_TYPE
+paper_27,Educator,TARGETS_USER_TYPE
+paper_28,Student,TARGETS_USER_TYPE
+paper_29,Student,TARGETS_USER_TYPE
+paper_30,Educator,TARGETS_USER_TYPE
+paper_31,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_32,Student,TARGETS_USER_TYPE
+paper_33,Student,TARGETS_USER_TYPE
+paper_35,Student,TARGETS_USER_TYPE
+paper_36,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_37,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_38,Student,TARGETS_USER_TYPE
+paper_39,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_40,Educator,TARGETS_USER_TYPE
+paper_42,Community,TARGETS_USER_TYPE
+paper_43,Student,TARGETS_USER_TYPE
+paper_44,Student,TARGETS_USER_TYPE
+paper_45,Student,TARGETS_USER_TYPE
+paper_46,Student,TARGETS_USER_TYPE
+paper_48,Educator,TARGETS_USER_TYPE
+paper_49,Educator,TARGETS_USER_TYPE
+paper_50,Student,TARGETS_USER_TYPE
+paper_51,Student,TARGETS_USER_TYPE
+paper_52,Systematic: social/political level information,TARGETS_USER_TYPE
+paper_53,Educator,TARGETS_USER_TYPE
+paper_54,Student,TARGETS_USER_TYPE
+paper_55,Educator,TARGETS_USER_TYPE
+paper_56,Student,TARGETS_USER_TYPE
+paper_58,Educator,TARGETS_USER_TYPE
+paper_60,Student,TARGETS_USER_TYPE
+paper_61,Student,TARGETS_USER_TYPE
+paper_63,Student,TARGETS_USER_TYPE
+paper_64,Student,TARGETS_USER_TYPE
+paper_66,Student,TARGETS_USER_TYPE
+paper_67,Student,TARGETS_USER_TYPE
+paper_68,Educator,TARGETS_USER_TYPE

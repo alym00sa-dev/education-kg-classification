@@ -1,0 +1,248 @@
+author_id:ID(Author),name
+author_1,Hui Wang
+author_2,Anh Dang
+author_3,Zihao Wu
+author_4,Son Mac
+author_5,Benedict du Boulay
+author_6,Teresa Swist
+author_7,Simon Buckingham Shum
+author_8,Kalervo N. Gulson
+author_9,Iria Estévez-Ayres
+author_10,Patricia Callejo
+author_11,Miguel Ángel Hombrados-Herrera
+author_12,Carlos Alario-Hoyos
+author_13,Carlos Delgado Kloos
+author_14,Rujun Gao
+author_15,Hillary E. Merzdorf
+author_16,Saira Anwar
+author_17,M. Cynthia Hipwell
+author_18,Arun Srinivasa
+author_19,Ummugul Bezirhan
+author_20,Matthias von Davier
+author_21,Kaśka Porayska-Pomsta
+author_22,Ana Mouta
+author_23,Ana María Pinto-Llorente
+author_24,Eva María Torrecilla-Sánchez
+author_25,Rebecka Weegar
+author_26,Peter Idestam-Almquist
+author_27,Wayne Holmes
+author_28,Athina Georgara
+author_29,Marc Santolini
+author_30,Olga Kokshagina
+author_31,Camila Justine Jacinta Haux
+author_32,Desmé Jacobs
+author_33,Gloria Biwott
+author_34,Marcela Correa
+author_35,Carles Sierra
+author_36,Jose Luis Fernandez-Marquez
+author_37,Juan A. Rodriguez-Aguilar
+author_38,Chris Impey
+author_39,Matthew Wenger
+author_40,Nikhil Garuda
+author_41,Shahriar Golchin
+author_42,Sarah Stamer
+author_43,Yiwen Lin
+author_44,Nia Nixon
+author_45,Evelyn Navarrete
+author_46,Andreas Nehring
+author_47,Sascha Schanze
+author_48,Ralph Ewerth
+author_49,Anett Hoppe
+author_50,Duong Ngo
+author_51,Andy Nguyen
+author_52,Belle Dang
+author_53,Ha Ngo
+author_54,Christian Tarchi
+author_55,Alessandra Zappoli
+author_56,Lidia Casado Ledesma
+author_57,Eva Wennås Brante
+author_58,Radek Pelánek
+author_59,Nesra Yannier
+author_60,Scott E. Hudson
+author_61,Henry Chang
+author_62,Kenneth R. Koedinger
+author_63,Marcell Nagy
+author_64,Roland Molontay
+author_65,Thiemo Wambsganss
+author_66,Ivo Benke
+author_67,Alexander Maedche
+author_68,Kenneth Koedinger
+author_69,Tanja Käser
+author_70,René F. Kizilcec
+author_71,Wesley Morris
+author_72,Scott Crossley
+author_73,Langdon Holmes
+author_74,Chaohua Ou
+author_75,Mihai Dascalu
+author_76,Danielle McNamara
+author_77,Joost C. F. de Winter
+author_78,Jamiu Adekunle Idowu
+author_79,Sebastian Gombert
+author_80,Aron Fink
+author_81,Tornike Giorgashvili
+author_82,Ioana Jivet
+author_83,Daniele Di Mitri
+author_84,Jane Yau
+author_85,Andreas Frey
+author_86,Hendrik Drachsler
+author_87,Halim Acosta
+author_88,Seung Lee
+author_89,Haesol Bae
+author_90,Chen Feng
+author_91,Jonathan Rowe
+author_92,Krista Glazewski
+author_93,Cindy Hmelo-Silver
+author_94,Bradford Mott
+author_95,James C. Lester
+author_96,Michael J. Parker
+author_97,Caitlin Anderson
+author_98,Claire Stone
+author_99,YeaRim Oh
+author_100,Yugo Hayashi
+author_101,Unggi Lee
+author_102,Minji Jeon
+author_103,Yunseo Lee
+author_104,Gyuri Byun
+author_105,Yoorim Son
+author_106,Jaeyoon Shin
+author_107,Hongkyu Ko
+author_108,Hyeoncheol Kim
+author_109,Noemi Mauro
+author_110,Liliana Ardissono
+author_111,Federica Cena
+author_112,Livio Scarpinati
+author_113,Gianluca Torta
+author_114,Ben Williamson
+author_115,Said Al Faraby
+author_116,Adiwijaya Adiwijaya
+author_117,Ade Romadhony
+author_118,Ariel Blobstein
+author_119,Marc T. Facciotti
+author_120,Michele Igo
+author_121,David Karger
+author_122,Prerna Ravi
+author_123,Kamali Sripathi
+author_124,Kobi Gal
+author_125,Ning Wang
+author_126,James Lester
+author_127,Ilana Ram
+author_128,Sara Harris
+author_129,Ido Roll
+author_130,Rebecca Eynon
+author_131,Caroline Pelletier
+author_132,Babette Bühler
+author_133,Efe Bozkir
+author_134,Patricia Goldberg
+author_135,Ömer Sümer
+author_136,Sidney D'Mello
+author_137,Peter Gerjets
+author_138,Ulrich Trautwein
+author_139,Enkelejda Kasneci
+author_140,Samah AlKhuzaey
+author_141,Floriana Grasso
+author_142,Terry R. Payne
+author_143,Valentina Tamma
+author_144,Olga Viberg
+author_145,Mutlu Cukurova
+author_146,Yael Feldman-Maggor
+author_147,Giora Alexandron
+author_148,Shizuka Shirai
+author_149,Susumu Kanemune
+author_150,Barbara Wasson
+author_151,Cathrine Tømte
+author_152,Daniel Spikol
+author_153,Marcelo Milrad
+author_154,Raquel Coelho
+author_155,Zhaozhen Xu
+author_156,Amelia Howarth
+author_157,Nicole Briggs
+author_158,Nello Cristianini
+author_159,Valentina Andries
+author_160,Judy Robertson
+author_161,Paola Mejia-Domenzain
+author_162,Jibril Frej
+author_163,Seyed Parsa Neshaei
+author_164,Luca Mouchel
+author_165,Tanya Nazaretsky
+author_166,Antoine Bosselut
+author_167,Lonneke Boels
+author_168,Enrique Garcia Moreno-Esteva
+author_169,Arthur Bakker
+author_170,Paul Drijvers
+author_171,Alberto Gandolfi
+author_172,Jionghao Lin
+author_173,Zifei Han
+author_174,Danielle R. Thomas
+author_175,Ashish Gurung
+author_176,Shivang Gupta
+author_177,Vincent Aleven
+author_178,Wenhan Lyu
+author_179,Shuang Zhang
+author_180,Tingting (Rachel) Chung
+author_181,Yifan Sun
+author_182,Yixuan Zhang
+author_183,Maxyn Leitner
+author_184,Eric Greenwald
+author_185,Ryan Montgomery
+author_186,Chirag Merchant
+author_187,Alexis Lebis
+author_188,Jérémie Humeau
+author_189,Anthony Fleury
+author_190,Flavien Lucas
+author_191,Mathieu Vermeulen
+author_192,Ken Koedinger
+author_193,Verena Dornauer
+author_194,Michael Netzer
+author_195,Éva Kaczkó
+author_196,Lisa-Maria Norz
+author_197,Elske Ammenwerth
+author_198,Mohsin Murtaza
+author_199,Chi-Tsun Cheng
+author_200,Mohammad Fard
+author_201,John Zeleznikow
+author_202,Ulrike Padó
+author_203,Yunus Eryilmaz
+author_204,Larissa Kirschner
+author_205,Eka Miranda
+author_206,Mediana Aryuni
+author_207,Mia Ika Rahmawati
+author_208,Siti Elda Hiererra
+author_209,Dian Sano
+author_210,H. Chad Lane
+author_211,Suna-Şeyma Uçar
+author_212,Itziar Aldabe
+author_213,Nora Aranberri
+author_214,Ana Arruarte
+author_215,Ijaz Ul Haq
+author_216,Manoli Pifarré
+author_217,Estibaliz Fraca
+author_218,Wei Dai
+author_219,Yi-Shan Tsai
+author_220,Ahmad Aldino
+author_221,Hua Jin
+author_222,Tongguang Li
+author_223,Dragan Gašević
+author_224,Guanliang Chen
+author_225,Neil Selwyn
+author_226,Francesco Sovrano
+author_227,Kevin Ashley
+author_228,Peter Leonid Brusilovsky
+author_229,Fabio Vitali
+author_230,Kevin C. Haudek
+author_231,Xiaoming Zhai
+author_232,Peter Wulff
+author_233,Lukas Mientus
+author_234,Anna Nowak
+author_235,Andreas Borowski
+author_236,Andrea Horbach
+author_237,Joey Pehlke
+author_238,Ronja Laarmann-Quante
+author_239,Yuning Ding
+author_240,Vinay Pursnani
+author_241,Yusuf Sermet
+author_242,Ibrahim Demir
+author_243,Archana Praveen Kumar
+author_244,Ashalatha Nayak
+author_245,Manjula Shenoy K
+author_246,Chaitanya
+author_247,Kaustav Ghosh

@@ -1,0 +1,46 @@
+:START_ID(Paper),:END_ID(Outcome),:TYPE
+paper_3,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_4,Cognitive - Scientific Reasoning,FOCUSES_ON_OUTCOME
+paper_5,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_6,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_9,Behavioral - task and assignment efficiency,FOCUSES_ON_OUTCOME
+paper_11,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_12,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_13,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_15,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_16,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_18,Cognitive - Scientific Reasoning,FOCUSES_ON_OUTCOME
+paper_20,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_22,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_23,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_25,Affective - motivation,FOCUSES_ON_OUTCOME
+paper_26,Behavioral - participation and social engagement,FOCUSES_ON_OUTCOME
+paper_27,Behavioral - productivity,FOCUSES_ON_OUTCOME
+paper_28,Behavioral - participation and social engagement,FOCUSES_ON_OUTCOME
+paper_29,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_30,Affective - motivation,FOCUSES_ON_OUTCOME
+paper_32,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_33,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_35,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_38,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_39,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_40,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_42,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_43,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_44,Behavioral - task and assignment efficiency,FOCUSES_ON_OUTCOME
+paper_45,Cognitive - Mathematical numeracy,FOCUSES_ON_OUTCOME
+paper_46,Cognitive - Mathematical numeracy,FOCUSES_ON_OUTCOME
+paper_48,Behavioral - task and assignment efficiency,FOCUSES_ON_OUTCOME
+paper_49,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_53,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_54,Behavioral - task and assignment efficiency,FOCUSES_ON_OUTCOME
+paper_55,Behavioral - task and assignment efficiency,FOCUSES_ON_OUTCOME
+paper_56,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_58,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_60,Cognitive - Critical Thinking/Metacognitive skills,FOCUSES_ON_OUTCOME
+paper_61,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_63,Affective - engagement,FOCUSES_ON_OUTCOME
+paper_64,Cognitive - Scientific Reasoning,FOCUSES_ON_OUTCOME
+paper_66,Cognitive - Reading and writing literacy,FOCUSES_ON_OUTCOME
+paper_67,Cognitive - Scientific Reasoning,FOCUSES_ON_OUTCOME
+paper_68,Behavioral - task and assignment efficiency,FOCUSES_ON_OUTCOME

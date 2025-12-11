@@ -1,0 +1,43 @@
+:START_ID(Paper),:END_ID(Population),:TYPE
+paper_1,Undergraduate,TARGETS_POPULATION
+paper_3,Undergraduate,TARGETS_POPULATION
+paper_4,Undergraduate,TARGETS_POPULATION
+paper_5,Undergraduate,TARGETS_POPULATION
+paper_6,Elementary (PreK-5th),TARGETS_POPULATION
+paper_9,Undergraduate,TARGETS_POPULATION
+paper_11,Adult,TARGETS_POPULATION
+paper_12,Adult,TARGETS_POPULATION
+paper_13,Undergraduate,TARGETS_POPULATION
+paper_15,Undergraduate,TARGETS_POPULATION
+paper_16,Undergraduate,TARGETS_POPULATION
+paper_18,Elementary (PreK-5th),TARGETS_POPULATION
+paper_19,Undergraduate,TARGETS_POPULATION
+paper_20,Undergraduate,TARGETS_POPULATION
+paper_22,High School (9th-12th),TARGETS_POPULATION
+paper_23,High School (9th-12th),TARGETS_POPULATION
+paper_25,Undergraduate,TARGETS_POPULATION
+paper_26,Middle School (6th-8th),TARGETS_POPULATION
+paper_27,Adult,TARGETS_POPULATION
+paper_28,Undergraduate,TARGETS_POPULATION
+paper_29,High School (9th-12th),TARGETS_POPULATION
+paper_33,Undergraduate,TARGETS_POPULATION
+paper_35,Adult,TARGETS_POPULATION
+paper_38,Undergraduate,TARGETS_POPULATION
+paper_40,High School (9th-12th),TARGETS_POPULATION
+paper_42,Adult,TARGETS_POPULATION
+paper_43,Elementary (PreK-5th),TARGETS_POPULATION
+paper_44,Adult,TARGETS_POPULATION
+paper_45,High School (9th-12th),TARGETS_POPULATION
+paper_46,Undergraduate,TARGETS_POPULATION
+paper_48,Adult,TARGETS_POPULATION
+paper_49,Graduate,TARGETS_POPULATION
+paper_50,High School (9th-12th),TARGETS_POPULATION
+paper_53,Graduate,TARGETS_POPULATION
+paper_54,Adult,TARGETS_POPULATION
+paper_56,Undergraduate,TARGETS_POPULATION
+paper_58,Middle School (6th-8th),TARGETS_POPULATION
+paper_60,High School (9th-12th),TARGETS_POPULATION
+paper_61,Graduate,TARGETS_POPULATION
+paper_63,Undergraduate,TARGETS_POPULATION
+paper_64,Middle School (6th-8th),TARGETS_POPULATION
+paper_67,Undergraduate,TARGETS_POPULATION

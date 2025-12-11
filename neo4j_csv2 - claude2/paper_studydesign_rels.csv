@@ -1,0 +1,52 @@
+:START_ID(Paper),:END_ID(StudyDesign),:TYPE
+paper_1,Qualitative Study,USES_STUDY_DESIGN
+paper_3,Qualitative Study,USES_STUDY_DESIGN
+paper_4,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_5,Meta-Analysis/Systematic Review,USES_STUDY_DESIGN
+paper_6,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_8,Meta-Analysis/Systematic Review,USES_STUDY_DESIGN
+paper_9,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_11,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_12,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_13,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_14,Meta-Analysis/Systematic Review,USES_STUDY_DESIGN
+paper_15,Qualitative Study,USES_STUDY_DESIGN
+paper_16,Qualitative Study,USES_STUDY_DESIGN
+paper_18,Randomized Control Trial,USES_STUDY_DESIGN
+paper_19,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_20,Randomized Control Trial,USES_STUDY_DESIGN
+paper_22,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_23,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_24,Meta-Analysis/Systematic Review,USES_STUDY_DESIGN
+paper_25,Randomized Control Trial,USES_STUDY_DESIGN
+paper_26,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_27,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_28,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_29,Qualitative Study,USES_STUDY_DESIGN
+paper_30,Qualitative Study,USES_STUDY_DESIGN
+paper_32,Meta-Analysis/Systematic Review,USES_STUDY_DESIGN
+paper_33,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_35,Randomized Control Trial,USES_STUDY_DESIGN
+paper_37,Qualitative Study,USES_STUDY_DESIGN
+paper_38,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_39,Meta-Analysis/Systematic Review,USES_STUDY_DESIGN
+paper_40,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_42,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_43,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_44,Randomized Control Trial,USES_STUDY_DESIGN
+paper_45,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_46,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_48,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_49,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_51,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_53,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_54,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_55,Mixed-Methods Study,USES_STUDY_DESIGN
+paper_58,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_60,Qualitative Study,USES_STUDY_DESIGN
+paper_61,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_63,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_64,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_66,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_67,Quasi-Experimental Design,USES_STUDY_DESIGN
+paper_68,Mixed-Methods Study,USES_STUDY_DESIGN

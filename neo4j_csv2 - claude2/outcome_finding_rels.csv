@@ -1,0 +1,46 @@
+:START_ID(Outcome),:END_ID(EmpiricalFinding),:TYPE
+Affective - engagement,finding_3,HAS_FINDING
+Cognitive - Scientific Reasoning,finding_4,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_5,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_6,HAS_FINDING
+Behavioral - task and assignment efficiency,finding_9,HAS_FINDING
+Affective - engagement,finding_11,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_12,HAS_FINDING
+Affective - engagement,finding_13,HAS_FINDING
+Affective - engagement,finding_15,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_16,HAS_FINDING
+Cognitive - Scientific Reasoning,finding_18,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_20,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_22,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_23,HAS_FINDING
+Affective - motivation,finding_25,HAS_FINDING
+Behavioral - participation and social engagement,finding_26,HAS_FINDING
+Behavioral - productivity,finding_27,HAS_FINDING
+Behavioral - participation and social engagement,finding_28,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_29,HAS_FINDING
+Affective - motivation,finding_30,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_32,HAS_FINDING
+Affective - engagement,finding_33,HAS_FINDING
+Affective - engagement,finding_35,HAS_FINDING
+Affective - engagement,finding_38,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_39,HAS_FINDING
+Affective - engagement,finding_40,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_42,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_43,HAS_FINDING
+Behavioral - task and assignment efficiency,finding_44,HAS_FINDING
+Cognitive - Mathematical numeracy,finding_45,HAS_FINDING
+Cognitive - Mathematical numeracy,finding_46,HAS_FINDING
+Behavioral - task and assignment efficiency,finding_48,HAS_FINDING
+Affective - engagement,finding_49,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_53,HAS_FINDING
+Behavioral - task and assignment efficiency,finding_54,HAS_FINDING
+Behavioral - task and assignment efficiency,finding_55,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_56,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_58,HAS_FINDING
+Cognitive - Critical Thinking/Metacognitive skills,finding_60,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_61,HAS_FINDING
+Affective - engagement,finding_63,HAS_FINDING
+Cognitive - Scientific Reasoning,finding_64,HAS_FINDING
+Cognitive - Reading and writing literacy,finding_66,HAS_FINDING
+Cognitive - Scientific Reasoning,finding_67,HAS_FINDING
+Behavioral - task and assignment efficiency,finding_68,HAS_FINDING
